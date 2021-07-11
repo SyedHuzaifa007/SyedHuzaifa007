@@ -3,11 +3,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedHuzaifa007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SyedHuzaifa007)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/SyedHuzaifa007/Robbie-12.20-Personal-Virtual-Assistant">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SyedHuzaifa007&repo=Robbie-12.20-Personal-Virtual-Assistant" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Car-Price-Prediction-Deep-Learning-Model" />
+<a href="https://github.com/anuraghazra/Car-Price-Prediction-Deep-Learning-Model">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SyedHuzaifa007&repo=Car-Price-Prediction-Deep-Learning-Model" />
 </a>
 
 

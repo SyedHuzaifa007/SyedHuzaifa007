@@ -1,5 +1,6 @@
 [![Header](https://github.com/SyedHuzaifa007/SyedHuzaifa007/blob/main/Header.png "Header")](https://some-url.dev/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedHuzaifa007)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

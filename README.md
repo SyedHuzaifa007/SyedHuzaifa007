@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/Codeman.png "Header")](https://some-url.dev/)
 
-[![Header](https://github.com/SyedHuzaifa007/SyedHuzaifa007/blob/main/Codeman.png "Header")](https://some-url.dev/)
+[![Header](https://github.com/SyedHuzaifa007/SyedHuzaifa007/blob/main/Header.png "Header")](https://some-url.dev/)
 
 
 

@@ -13,7 +13,7 @@
 [![Spotify Badge](https://img.shields.io/badge/Spotify-Profile-informational?style=flat&logo=spotify&logoColor=green&color=0D76A8)](https://open.spotify.com/user/ntv8oi1lnkhxyqglb82fls0oc?si=405d09611c1d44b9)
 
 
-[![Discord Badge](https://img.shields.io/badge/Discord-Profile-informational?style=flat&logo=discord&logoColor=green&color=0D76A8)](https://open.spotify.com/user/ntv8oi1lnkhxyqglb82fls0oc?si=405d09611c1d44b9)
+[![Discord Badge](https://img.shields.io/badge/Discord-Profile-informational?style=flat&logo=discord&logoColor=blue&color=000000)](https://open.spotify.com/user/ntv8oi1lnkhxyqglb82fls0oc?si=405d09611c1d44b9)
 
 <!--
 **SyedHuzaifa007/SyedHuzaifa007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

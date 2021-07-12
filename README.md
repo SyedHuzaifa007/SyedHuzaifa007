@@ -11,12 +11,16 @@
 </a>
 <p>
 
-
 ![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisvillegas&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedHuzaifa007=synthwave “Andres’ Top Languages Card”)
 
 
+  
+  
+  <a href=”https://www.linkedin.com/in/syed-huzaifa-56296a1b5/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+  
+  
 <!--
 **SyedHuzaifa007/SyedHuzaifa007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

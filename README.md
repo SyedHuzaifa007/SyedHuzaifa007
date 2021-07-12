@@ -108,6 +108,12 @@ Well, I love to do many things but some of them makes me feel pleasure like:
 ### 📨 Contact Me
 ---
 ##### Feel free to contact me at <a href="">huzaifanau123@gmail.com</a> if you want to ask anything or want any help from me regrading my areas of expertise 🎯
+---
+#### Thanks for your time 🕐
+##### Best Regards,
+##### 💙💙*Syed Huzaifa*💙💙 
+
+
 
 <!--
 **SyedHuzaifa007/SyedHuzaifa007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

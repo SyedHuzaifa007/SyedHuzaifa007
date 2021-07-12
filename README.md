@@ -1,14 +1,11 @@
 [![Header](https://github.com/SyedHuzaifa007/SyedHuzaifa007/blob/main/Header.png "Header")](https://some-url.dev/))
 
-
   
-<a href=”https://www.linkedin.com/in/syed-huzaifa-56296a1b5/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-                                                               
-<a href=”https://twitter.com/SyedHuz18882689">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
-  
-<a href=”https://www.instagram.com/codeman_shah/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>     
   
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/SyedHuz18882689)
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/syed-huzaifa-56296a1b5/)
   
 <!--
 **SyedHuzaifa007/SyedHuzaifa007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

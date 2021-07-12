@@ -11,11 +11,8 @@
 </a>
 <p>
 
-<a href="https://www.linkedin.com/in/syed-huzaifa-007/"><img src="https://img.shields.io/badge/-@syed-huzaifa-007?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/syed-huzaifa-007/" alt="LinkedIn Badge"></a> 
-<a href="https://open.spotify.com/user/ntv8oi1lnkhxyqglb82fls0oc"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/ntv8oi1lnkhxyqglb82fls0oc" alt="Spotify Badge">
-  </a></p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
+![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedHuzaifa007&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”
 
 
 

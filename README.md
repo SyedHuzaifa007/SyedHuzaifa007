@@ -7,8 +7,9 @@
 <!-- About Me -->
 ### 🧑🏻‍💻 About Me
 ---
-Hey! I'm **Syed Huzaifa 🦸🏻**. I am a college student (Pre-Engineering) 📘 who is an **Artificial Intelligence 🤖** passionate, Microsoft certified **Pythonista 🐍** and a **Tech Blogger 📡**. I am the **owner** and **founder** of **Techy Sea** (A Tech Blogging Site). I've worked on different projects during the past 3 years when this all **💙💙(My Love For AI)💙💙** started. I made several AI models 🦾 during past few years. Besides this I've also developed several web sites just because of my **Web Desinging** passion. I am also a member of **Google Developers Program** and **Learn AI Together**. I just love 🧡coding🧡 because it makes me feel relaxed 🧑🏼‍💻.
-I am such a crazy in love for 💜AI💜 that I can't wait to see it changing my planet 🌍.
+#### Hey! I'm **Syed Huzaifa 🦸🏻**. I am a college student (Pre-Engineering) 📘 who is an **Artificial Intelligence 🤖** passionate, Microsoft certified **Pythonista 🐍** and a **Tech Blogger 📡**. I am the **owner** and **founder** of **Techy Sea** (A Tech Blogging Site). I've worked on different projects during the past 3 years when this all **💙💙(My Love For AI)💙💙** started. I made several AI models 🦾 during past few years. Besides this I've also developed several web sites just because of my **Web Desinging** passion. I am also a member of **Google Developers Program** and **Learn AI Together**. I am currently working on **Deep Learning Image Processing 🎦**, **Cloud Computing ☁️**, and **Building Serverless APIs 🖥️** 
+#### I just love 🧡coding🧡 because it makes me feel relaxed 🧑🏼‍💻.
+#### I am such a crazy in love for 💜AI💜 that I can't wait to see it changing my planet 🌍.
 
 <!-- My GitHub Stats and Most Used Languages-->
 ### 📊 My GitHub Stats
@@ -88,7 +89,7 @@ I am such a crazy in love for 💜AI💜 that I can't wait to see it changing my
 <!-- My Hobbies -->
 ### ⚔️ My Hobbies
 ---
-Well, I love to do many things but some of them makes me feel pleasure like:
+Well, I love to do many things but some of them gives me pleasure like:
 - Teaching Physics 🦾
 - Doing Hacking 🖥
 - Playing Cricket 🏏

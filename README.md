@@ -12,7 +12,7 @@
 <p>
 
 
-![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedHuzaifa007&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”
+![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedHuzaifa007&theme=synthwave&show_icons=true&count_private=true “Syed Huzaifa's GutHub Stats”)
 
 
 

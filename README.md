@@ -6,9 +6,17 @@
 
 <!-- About Me -->
 ### About Me
-Hey! I'm **Syed Huzaifa 🦸🏻**. I am a college student (Pre-Engineering) 📘 who is an **Artificial Intelligence 🤖** passionate, Microsoft certified **Pythonista 🐍** and **Tech Blogger**. I am the **owner** and **founder** of **Techy Sea** (A Tech Blogging Site). I've worked on different projects during the past 3 years when this all **💙💙(My Love For AI)💙💙** started. Besides this I've also developed several web sites just because of my **Web Desinging** passion. I am also a member of **Google Developers Program** and **Learn AI Together**. I am such a crazy in love for 💜AI💜 that I can't wait to see AI changing my planet 🌍.
+Hey! I'm **Syed Huzaifa 🦸🏻**. I am a college student (Pre-Engineering) 📘 who is an **Artificial Intelligence 🤖** passionate, Microsoft certified **Pythonista 🐍** and a **Tech Blogger 📡**. I am the **owner** and **founder** of **Techy Sea** (A Tech Blogging Site). I've worked on different projects during the past 3 years when this all **💙💙(My Love For AI)💙💙** started. Besides this I've also developed several web sites just because of my **Web Desinging** passion. I am also a member of **Google Developers Program** and **Learn AI Together**. I just love 🧡coding🧡 because it makes me feel relaxed 🧑🏼‍💻.
+I am such a crazy in love for 💜AI💜 that I can't wait to see AI changing my planet 🌍.
 
+<!-- My GitHub Stats -->
+<a href="https://github.com/SyedHuzaifa007">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedHuzaifa007&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
+<a href="https://github.com/SyedHuzaifa007">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SyedHuzaifa007&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Syed Huzaifa's GitHub Stats" />
+</a>
 
 
 

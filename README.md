@@ -2,10 +2,10 @@
 
   
   
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/SyedHuz18882689)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=blue&color=1CA2F1)](https://twitter.com/SyedHuz18882689)
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/syed-huzaifa-56296a1b5/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=blue&color=0D76A8)](https://www.linkedin.com/in/syed-huzaifa-56296a1b5/)
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=red&color=0D76A8)](https://www.instagram.com/codeman_shah/)
 

@@ -84,7 +84,7 @@
 ### 💟 My Favourite Quote
 ---
 #### *"Three things to follow and you can achieve everything in your life: Hardwork, Honesty and Truthfullness."*
-**- Syed Huzaifa**
+##### 💙💙*Syed Huzaifa*💙💙
 
 <!-- My Hobbies -->
 ### ⚔️ My Hobbies

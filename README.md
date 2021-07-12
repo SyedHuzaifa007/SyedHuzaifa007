@@ -7,7 +7,7 @@
 <!-- About Me -->
 ### 🧑🏻‍💻 About Me
 ---
-Hey! I'm **Syed Huzaifa 🦸🏻**. I am a college student (Pre-Engineering) 📘 who is an **Artificial Intelligence 🤖** passionate, Microsoft certified **Pythonista 🐍** and a **Tech Blogger 📡**. I am the **owner** and **founder** of **Techy Sea** (A Tech Blogging Site). I've worked on different projects during the past 3 years when this all **💙💙(My Love For AI)💙💙** started. Besides this I've also developed several web sites just because of my **Web Desinging** passion. I am also a member of **Google Developers Program** and **Learn AI Together**. I just love 🧡coding🧡 because it makes me feel relaxed 🧑🏼‍💻.
+Hey! I'm **Syed Huzaifa 🦸🏻**. I am a college student (Pre-Engineering) 📘 who is an **Artificial Intelligence 🤖** passionate, Microsoft certified **Pythonista 🐍** and a **Tech Blogger 📡**. I am the **owner** and **founder** of **Techy Sea** (A Tech Blogging Site). I've worked on different projects during the past 3 years when this all **💙💙(My Love For AI)💙💙** started. I made several AI models 🦾 during past few years. Besides this I've also developed several web sites just because of my **Web Desinging** passion. I am also a member of **Google Developers Program** and **Learn AI Together**. I just love 🧡coding🧡 because it makes me feel relaxed 🧑🏼‍💻.
 I am such a crazy in love for 💜AI💜 that I can't wait to see it changing my planet 🌍.
 
 <!-- My GitHub Stats and Most Used Languages-->
@@ -79,24 +79,35 @@ I am such a crazy in love for 💜AI💜 that I can't wait to see it changing my
 
 </details>
 
-<br>
-
+<!-- My Favourite Quote -->
 ### 💟 My Favourite Quote
 ---
 #### *"Three things to follow and you can achieve everything in your life: Hardwork, Honesty and Truthfullness."*
 **- Syed Huzaifa**
 
+<!-- My Hobbies -->
 ### ⚔️ My Hobbies
 ---
 Well, I love to do many things but some of them makes me feel pleasure like:
-##### - Teaching Physics 🦾
-##### - Doing Hacking 🖥
-##### - Playing Cricket 🏏
-##### - Streaming Music 🎧
-##### - Writing Tech Blogs 📔
-##### - Talking About Politics And Global Issues 🗺
-##### And The Last Thing Which I Love To Do Most Is ⬇️ 
-***Coding In The Dark While Listening <a href="https://www.youtube.com/watch?v=uDAjINEp8H8">7 Rings</a> And <a href="https://www.youtube.com/watch?v=o1zIw9RZDrw">Side To Side</a> By <a href="https://en.wikipedia.org/wiki/Ariana_Grande">🧡Ariana Grande🧡</a>***
+- Teaching Physics 🦾
+- Doing Hacking 🖥
+- Playing Cricket 🏏
+- Streaming Music 🎧
+- Writing Tech Blogs 📔
+- Talking About Politics And Global Issues 🗺
+#### ⚠️ And The Last Thing Which I Love To Do Most Is ⬇️ 
+#####  ***Coding In The Dark While Listening <a href="https://www.youtube.com/watch?v=uDAjINEp8H8">7 Rings</a> And <a href="https://www.youtube.com/watch?v=o1zIw9RZDrw">Side To Side</a> By <a href="https://en.wikipedia.org/wiki/Ariana_Grande">🧡Ariana Grande🧡</a>***
+
+<!-- My Dream Plans -->
+### 💎 My Dream Plans
+---
+- ##### My one of the biggest dream is to contribute more and more in **🎀 AI Open Source Projects 🎀** and make my own **Cool AI Models 🤖** 
+- ##### I want to educate 📚 about AI to more and more students and make a huge community 🚀 of AI which includes people from all over the planet 🌍 
+
+<!-- Contact Me -->
+### 📨 Contact Me
+---
+##### Feel free to contact me at <a href="">huzaifanau123@gmail.com</a> if you want to ask anything or want any help from me regrading my areas of expertise 🎯
 
 <!--
 **SyedHuzaifa007/SyedHuzaifa007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

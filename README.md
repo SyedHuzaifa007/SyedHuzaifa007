@@ -81,8 +81,11 @@ I am such a crazy in love for 💜AI💜 that I can't wait to see it changing my
 
 <br>
 
-
-
+### 💟 My Favourite Quote
+---
+####*"Three things to follow and you can achieve everything: Hardwork, Honesty and Truthfullness."*
+<br>
+**- Syed Huzaifa**
 
 <!--
 **SyedHuzaifa007/SyedHuzaifa007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

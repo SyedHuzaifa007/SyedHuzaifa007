@@ -8,7 +8,7 @@
   
 <a href=”https://www.instagram.com/codeman_shah/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>     
   
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/SyedHuz18882689)
   
 <!--
 **SyedHuzaifa007/SyedHuzaifa007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

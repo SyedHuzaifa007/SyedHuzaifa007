@@ -19,11 +19,67 @@ I am such a crazy in love for 💜AI💜 that I can't wait to see it changing my
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SyedHuzaifa007&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Syed Huzaifa's GitHub Stats" />
 </a>
 
+### 📌 Pinned Repositories
+---
+
+<a href="https://github.com/SyedHuzaifa007/Robbie-12.20-Personal-Virtual-Assistant">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SyedHuzaifa007&repo=Robbie-12.20-Personal-Virtual-Assistant&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/SyedHuzaifa007/Car-Price-Prediction-Deep-Learning-Model">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SyedHuzaifa007&repo=Car-Price-Prediction-Deep-Learning-Model&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/SyedHuzaifa007/Concrete-Strength-Prediction-Model">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SyedHuzaifa007&repo=Concrete-Strength-Prediction-Model&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <!-- My Skills -->
 ### 💼 My Skills
 ---
-[](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=yellow&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffb6c1)
+![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=ffb6c1)
+![](https://img.shields.io/badge/Code-Keras-informational?style=flat&logo=keras&logoColor=white&color=ffb6c1)
+![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=ffb6c1)
+![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=ffb6c1)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=ffb6c1) 
+![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=ffb6c1)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffb6c1)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=ffb6c1)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=ffb6c1)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=Rust&logoColor=white&color=ffb6c1)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=ffb6c1)
 
+<details>
+<summary>Want To See More? Click Here ⬇️</summary>
+<br>
+
+
+![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=html5&logoColor=white&color=cbc3e3)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=cbc3e3)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=cbc3e3)
+![](https://img.shields.io/badge/Style-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=cbc3e3)
+![](https://img.shields.io/badge/Style-Wix-informational?style=flat&logo=wix&logoColor=white&color=cbc3e3)
+
+<br>
+ 
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=cc3366)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=cc3366)
+![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=cc3366)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=cc3366)
+![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=cc3366)
+![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=cc3366)
+![](https://img.shields.io/badge/Tools-Kaggle-informational?style=flat&logo=kaggle&logoColor=white&color=cc3366)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=cc3366)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=cc3366)
+![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=cc3366)
+![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=cc3366)
+
+</details>
+
+<br>
 
 
 

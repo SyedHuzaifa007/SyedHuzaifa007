@@ -86,6 +86,18 @@ I am such a crazy in love for 💜AI💜 that I can't wait to see it changing my
 #### *"Three things to follow and you can achieve everything in your life: Hardwork, Honesty and Truthfullness."*
 **- Syed Huzaifa**
 
+### ⚔️ My Hobbies
+---
+Well, I love to do many things but some of them makes me feel pleasure like:
+##### - Teaching Physics 🦾
+##### - Doing Hacking 🖥
+##### - Playing Cricket 🏏
+##### - Streaming Music 🎧
+##### - Writing Tech Blogs 📔
+##### - Talking About Politics And Global Issues 🗺
+##### And The Last Thing Which Makes Me Feel Comfortable Is ⬇️ 
+***Coding In The Dark While Listening <a href="https://www.youtube.com/watch?v=uDAjINEp8H8">7 Rings</a> And <a href="https://www.youtube.com/watch?v=o1zIw9RZDrw">Side To Side</a> By <a href="https://en.wikipedia.org/wiki/Ariana_Grande">Ariana Grande</a>***
+
 <!--
 **SyedHuzaifa007/SyedHuzaifa007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

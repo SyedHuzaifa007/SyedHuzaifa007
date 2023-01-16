@@ -11,7 +11,7 @@
 - Microsoft Certified **Pythonista 🐍** 
 - Tech Blogger 📡. 
 - Favourite Prorgramming Language: **Python**
-- Member of **Google Developers Program**, **Google Developers Student Club (GDSC)**, **Global AI Hub** and **Learn AI Together**. 
+- Member of **Hack Club 💻**, **SOFTEC 👨🏻‍💻**, **Google Developers Student Club (GDSC)**, **Global AI Hub** and **Learn AI Together**. 
 - Currently working on **Computer Vision with Tensorlfow 🎦**, **Natural Language Processing (NLP) 🧠**, **Deploying AI Models with AWS Sagemaker ☁️**, and **Building Serverless APIs 🖥️** 
 #### I just love 🧡coding🧡 because it makes me feel relaxed 🧑🏼‍💻.
 #### I am so much crazy in love with 💜AI💜 and I can't wait to see it changing my planet 🌍.

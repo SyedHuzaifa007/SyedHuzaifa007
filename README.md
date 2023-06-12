@@ -22,14 +22,19 @@
 <!-- About Me -->
 ### 🧑🏻 About Me
 ---
-- Student of **BS (Software Engineering) 📘**, **Artificial Intelligence 🦾**, Data Science 📈 and **Robotics 🤖**. 
+- I am an enthusiastic Software Engineering 👨🏻‍💻 student
+- Meanwhile specializing in AI 🤖, Data Science 📊, Web Development 💻, and Game Development 👾
+- Experienced doing Web Dev, App Dev, Data Analysis 📈, and Deep Learning (CNN, NLP) 🧠 projects 
+- Also interested in building Cloud-Based ☁️ Web Applications 
+- Passionate about these areas, I strive to make meaningful contributions to Software Engineering ✅
+
+<!-- - Student of **BS (Software Engineering) 📘**, **Artificial Intelligence 🦾**, Data Science 📈 and **Robotics 🤖**. 
 - Microsoft Certified **Pythonista 🐍** 
 - Tech Blogger 📡. 
 - Favourite Prorgramming Language: **Python**
 - Member of **Hack Club 💻**, **SOFTEC 👨🏻‍💻**, **Google Developers Student Club (GDSC)**, **Global AI Hub** and **Learn AI Together**. 
-- Currently working on **Computer Vision with Tensorlfow 🎦**, **Natural Language Processing (NLP) 🧠**, **Deploying AI Models with AWS Sagemaker ☁️**, and **Building Serverless APIs 🖥️** 
-#### I just love 🧡coding🧡 because it makes me feel relaxed 🧑🏼‍💻.
-#### I am so much crazy in love with 💜AI💜 and I can't wait to see it changing my planet 🌍.
+- Currently working on **Computer Vision with Tensorlfow 🎦**, **Natural Language Processing (NLP) 🧠**, **Deploying AI Models with AWS Sagemaker ☁️**, and **Building Serverless APIs 🖥️**  -->
+
 
 <!-- My GitHub Stats and Most Used Languages-->
 ### 📊 My GitHub Stats

@@ -2,7 +2,6 @@
 ---
 <!-- Header Image -->
 [![Header](https://github.com/SyedHuzaifa007/SyedHuzaifa007/blob/main/GitHub-Header.png "Header")](https://some-url.dev/)
-
 ### 📩 My Socials
 ---  
 <a href="https://github.com/SyedHuzaifa007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="My GItHub" height="30" width="40" /></a>
@@ -27,15 +26,6 @@
 - Experienced doing Web Dev, App Dev, Data Analysis 📈, and Deep Learning (CNN, NLP) 🧠 projects 
 - Also interested in building Cloud-Based ☁️ Web Applications 
 - Passionate about these areas, I strive to make meaningful contributions to Software Engineering ✅
-
-<!-- My GitHub Stats and Most Used Languages-->
-### 📊 My GitHub Stats
----
-<a href="https://github.com/SyedHuzaifa007">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedHuzaifa007&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a> <a href="https://github.com/SyedHuzaifa007">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SyedHuzaifa007&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Syed Huzaifa's GitHub Stats" />
-</a>
 
 <!-- My Skills -->
 ### 💼 My Skills
@@ -87,6 +77,17 @@
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=cc3366)
 
 </details>
+
+
+<!-- My GitHub Stats and Most Used Languages-->
+### 📊 My GitHub Stats
+---
+<a href="https://github.com/SyedHuzaifa007">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedHuzaifa007&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a> <a href="https://github.com/SyedHuzaifa007">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SyedHuzaifa007&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Syed Huzaifa's GitHub Stats" />
+</a>
+
 
 ### 📌 Pinned Repositories
 ---

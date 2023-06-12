@@ -28,14 +28,6 @@
 - Also interested in building Cloud-Based ☁️ Web Applications 
 - Passionate about these areas, I strive to make meaningful contributions to Software Engineering ✅
 
-<!-- - Student of **BS (Software Engineering) 📘**, **Artificial Intelligence 🦾**, Data Science 📈 and **Robotics 🤖**. 
-- Microsoft Certified **Pythonista 🐍** 
-- Tech Blogger 📡. 
-- Favourite Prorgramming Language: **Python**
-- Member of **Hack Club 💻**, **SOFTEC 👨🏻‍💻**, **Google Developers Student Club (GDSC)**, **Global AI Hub** and **Learn AI Together**. 
-- Currently working on **Computer Vision with Tensorlfow 🎦**, **Natural Language Processing (NLP) 🧠**, **Deploying AI Models with AWS Sagemaker ☁️**, and **Building Serverless APIs 🖥️**  -->
-
-
 <!-- My GitHub Stats and Most Used Languages-->
 ### 📊 My GitHub Stats
 ---
@@ -45,26 +37,11 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SyedHuzaifa007&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Syed Huzaifa's GitHub Stats" />
 </a>
 
-### 📌 Pinned Repositories
----
-
-<a href="https://github.com/SyedHuzaifa007/Robbie-12.20-Personal-Virtual-Assistant">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SyedHuzaifa007&repo=Robbie-12.20-Personal-Virtual-Assistant&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/SyedHuzaifa007/Car-Price-Prediction-Deep-Learning-Model">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SyedHuzaifa007&repo=Car-Price-Prediction-Deep-Learning-Model&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/SyedHuzaifa007/Concrete-Strength-Prediction-Model">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SyedHuzaifa007&repo=Concrete-Strength-Prediction-Model&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
 <!-- My Skills -->
 ### 💼 My Skills
 ---
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=ffb6c1)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=ffb6c1)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffb6c1)
 ![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=ffb6c1)
 ![](https://img.shields.io/badge/Code-Keras-informational?style=flat&logo=keras&logoColor=white&color=ffb6c1)
@@ -93,6 +70,7 @@
  
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=cc3366)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=cc3366)
+![](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=Unity&logoColor=white&color=cc3366)
 ![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=cc3366)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=cc3366)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=cc3366)
@@ -101,11 +79,31 @@
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=cc3366)
 ![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=cc3366)
 ![](https://img.shields.io/badge/Tools-Kaggle-informational?style=flat&logo=kaggle&logoColor=white&color=cc3366)
+![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=cc3366)
+![](https://img.shields.io/badge/Tools-Trello-informational?style=flat&logo=trello&logoColor=white&color=cc3366)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=cc3366)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=cc3366)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=cc3366)
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=cc3366)
 
 </details>
+
+### 📌 Pinned Repositories
+---
+
+<a href="https://github.com/SyedHuzaifa007/Robbie-12.20-Personal-Virtual-Assistant">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SyedHuzaifa007&repo=Robbie-12.20-Personal-Virtual-Assistant&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/SyedHuzaifa007/Car-Price-Prediction-Deep-Learning-Model">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SyedHuzaifa007&repo=Car-Price-Prediction-Deep-Learning-Model&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/SyedHuzaifa007/Concrete-Strength-Prediction-Model">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SyedHuzaifa007&repo=Concrete-Strength-Prediction-Model&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 <!-- My Medium Blogs -->
 ### 📝 My Medium Blogs

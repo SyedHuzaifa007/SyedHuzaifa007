@@ -21,11 +21,11 @@
 <!-- About Me -->
 ### 🧑🏻 About Me
 ---
-- I am an enthusiastic Software Engineering 👨🏻‍💻 student
-- Meanwhile specializing in AI 🤖, Data Science 📊, Web Development 💻, and Game Development 👾
-- Experienced doing Web Dev, App Dev, Data Analysis 📈, and Deep Learning (CNN, NLP) 🧠 projects 
-- Also interested in building Cloud-Based ☁️ Web Applications 
-- Passionate about these areas, I strive to make meaningful contributions to Software Engineering ✅
+- I am an enthusiastic **Software Engineering** 👨🏻‍💻 student
+- Meanwhile specializing in **AI** 🤖, **Data Science** 📊, **Web Development** 💻, and **Game Development** 👾
+- Experienced in doing **Web Dev**, **App Dev**, **Data Analysis** 📈, and **Deep Learning (CNN, NLP)** 🧠 projects 
+- Interested in building **Serverless Cloud-Based** ☁️ **Web Applications** 
+- Passionate about these areas, I strive to make meaningful contributions to **Software Engineering** ✅
 
 <!-- My Skills -->
 ### 💼 My Skills

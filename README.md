@@ -1,5 +1,10 @@
-### Hey There 👋🏻 Welcome
----
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋🏻;This+is+Syed+Huzaifa+🧑🏻....;Nice+To+Meet+You!+😊&center=true&size=20">
+  </a>
+</h1>
+
+
 <!-- Header Image -->
 [![Header](https://github.com/SyedHuzaifa007/SyedHuzaifa007/blob/main/GitHub-Header.png "Header")](https://some-url.dev/)
 ### 📩 My Socials

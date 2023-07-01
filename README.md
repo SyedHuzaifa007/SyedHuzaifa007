@@ -87,26 +87,41 @@
 <!-- My GitHub Stats and Most Used Languages-->
 ### 📊 My GitHub Stats
 ---
-<p><img src="https://github-readme-stats.vercel.app/api?username=SyedHuzaifa007&amp;show_icons=true" alt="GitHub Stats"></p>
-<a href="https://github.com/SyedHuzaifa007">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedHuzaifa007&hide=html,css" />
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=SyedHuzaifa007&theme=react-light&border=61dafb&hide_border=true" alt="SyedHuzaifa007" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=SyedHuzaifa007&show_icons=true&theme=react-light&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedHuzaifa007&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=000000&text_color=000000&icon_color=61dafb&bg_color=ffffff&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedHuzaifa007&theme=react-light&bg_color=ffffff&hide_border=true" width="100%"/>
+</p>
 
 ### 📌 Pinned Repositories
 ---
 
-<a href="https://github.com/SyedHuzaifa007/Robbie-12.20-Personal-Virtual-Assistant">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SyedHuzaifa007&repo=Robbie-12.20-Personal-Virtual-Assistant&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/SyedHuzaifa007/Connect-Me-Social-Application">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SyedHuzaifa007&repo=Connect-Me-Social-Application&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
 </a>
 
 <br>
 
 <a href="https://github.com/SyedHuzaifa007/Car-Price-Prediction-Deep-Learning-Model">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SyedHuzaifa007&repo=Car-Price-Prediction-Deep-Learning-Model&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SyedHuzaifa007&repo=Car-Price-Prediction-Deep-Learning-Model&title_color=000000&text_color=000000&icon_color=4AB197&bg_color=ffffff" />
 </a>
 
 <a href="https://github.com/SyedHuzaifa007/Concrete-Strength-Prediction-Model">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SyedHuzaifa007&repo=Concrete-Strength-Prediction-Model&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SyedHuzaifa007&repo=Concrete-Strength-Prediction-Model&title_color=000000&text_color=000000&icon_color=4AB197&bg_color=ffffff" />
 </a>
 
 <!-- My Medium Blogs -->

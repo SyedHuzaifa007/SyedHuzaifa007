@@ -8,7 +8,14 @@
 <!-- Header Image -->
 [![Header](https://github.com/SyedHuzaifa007/SyedHuzaifa007/blob/main/GitHub-Header.png "Header")](https://some-url.dev/)
 
+<div align="center" width="50">
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=SyedHuzaifa007.SyedHuzaifa007">
+<br></br>
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ntv8oi1lnkhxyqglb82fls0oc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=ntv8oi1lnkhxyqglb82fls0oc&redirect=true)
+
+<img src="https://github.com/SyedHuzaifa007/SyedHuzaifa007/blob/main/dev-working_rounded.gif?raw=true" href="https://github.com/SyedHuzaifa007" alt="Coding Rocks"  width="60%"/><br> 
+</div>
 
 ### 📩 My Socials
 ---  

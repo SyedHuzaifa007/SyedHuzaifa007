@@ -139,6 +139,10 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SyedHuzaifa007&repo=Concrete-Strength-Prediction-Model&title_color=000000&text_color=000000&icon_color=4AB197&bg_color=ffffff" />
 </a>
 
+<a href="https://github.com/SyedHuzaifa007/Global-Terrorism-Database-Exploratory-Analysis">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SyedHuzaifa007&repo=Global-Terrorism-Database-Exploratory-Analysis&title_color=000000&text_color=000000&icon_color=4AB197&bg_color=ffffff" />
+</a>
+
 <!-- My Medium Blogs -->
 ### 📝 My Medium Blogs
 ---

@@ -6,6 +6,9 @@
 
 
 <!-- Header Image -->
+<div align="center">
+  <img src="./header.svg" alt="GitHub Profile Header" width="100%" />
+</div>
 [![Header](https://github.com/SyedHuzaifa007/SyedHuzaifa007/blob/main/GitHub-Header.png "Header")](https://some-url.dev/)
 
 <div align="center" width="50">

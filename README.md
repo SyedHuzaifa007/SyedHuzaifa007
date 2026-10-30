@@ -7,7 +7,7 @@
 
 <!-- Header Image -->
 <div align="center">
-  <img src="./Header.png" width="100%">
+  <img src="./Header1.png" width="100%">
 <!-- [![Header](https://github.com/SyedHuzaifa007/SyedHuzaifa007/blob/main/Header.png "Header")](https://some-url.dev/) -->
 </div>
 

@@ -7,9 +7,8 @@
 
 <!-- Header Image -->
 <div align="center">
-  <img src="./header.svg" alt="GitHub Profile Header" width="100%" />
+[![Header](https://github.com/SyedHuzaifa007/SyedHuzaifa007/blob/main/Header.png "Header")](https://some-url.dev/)
 </div>
-[![Header](https://github.com/SyedHuzaifa007/SyedHuzaifa007/blob/main/GitHub-Header.png "Header")](https://some-url.dev/)
 
 <div align="center" width="50">
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=SyedHuzaifa007.SyedHuzaifa007">
